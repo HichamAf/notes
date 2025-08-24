@@ -1,0 +1,9 @@
+# Compiled binary
+notetool
+
+# Notes collections (created by the tool at runtime)
+*
+!.gitignore
+!*.go
+!go.mod
+!go.sum
